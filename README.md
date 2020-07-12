@@ -5,6 +5,7 @@ Build the products flowing pipelines from feeding to searching at **Shopping Sea
 - Use Hadoop, Hive and Spark to aggregate product information.
 - Index products in Oracle, Postgresql, MySQL and Elasticsearch.
 - Deploy & run applications on Kubernetes.
+
 Also enjoying solve algorithms on Leetcode, Baekjoon, etc.
 
 <br>
