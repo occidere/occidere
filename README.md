@@ -1,5 +1,5 @@
 ## Who am I?
-Build the products flowing pipelines from feeding to searching at **Naver Shopping Search Dev** of **[NAVER Corp.](https://www.navercorp.com/)**
+Build the products flowing pipelines from feeding to searching at **Shopping Search Dev** of **[NAVER Corp.](https://www.navercorp.com/)**
 - Mainly use Spring Framework, but also properly use others like Python, Bash, etc.
 - Flow data through Kafka.
 - Use Hadoop, Hive and Spark to aggregate product information.
