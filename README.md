@@ -13,6 +13,14 @@ Also enjoying solve algorithms on Leetcode, Baekjoon, etc.
 
 <br>
 
+### Don't forget my posts and presentations too!
+- [Build monitioring system using Elastic Stack + Lambda](https://d2.naver.com/helloworld/9878588)
+    - Written on D2 (Naver tech blog)
+- [Configure Kubernetes pods autoscaling by detecting Kafka comsumer lag](https://blog.naver.com/occidere/221758990374)
+    - Presented in NAVER Engineering Day 2019
+
+
+<br>
 
 ### Check my additional info here!
 <div align="left">
@@ -25,10 +33,6 @@ Also enjoying solve algorithms on Leetcode, Baekjoon, etc.
 </div>
 
 <br>
-<br>
 
-### Don't forget my posts and presentations too!
-- [Build monitioring system using Elastic Stack + Lambda](https://d2.naver.com/helloworld/9878588)
-    - Written on D2 (Naver tech blog)
-- [Configure Kubernetes pods autoscaling by detecting Kafka comsumer lag](https://blog.naver.com/occidere/221758990374)
-    - Presented in NAVER Engineering Day 2019
+### Leetcode solving status
+<a href="https://leetcode.com/occidere/"><img src="https://raw.githubusercontent.com/occidere/leetcode/master/.statistics/language_statistics.png" width=500/></a>
