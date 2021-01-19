@@ -36,3 +36,10 @@ Also enjoying solve algorithms on Leetcode, Baekjoon, etc.
 
 ### Leetcode solving status
 <a href="https://leetcode.com/occidere/"><img src="https://raw.githubusercontent.com/occidere/leetcode/master/.statistics/language_statistics.png" width=500/></a>
+
+<br>
+
+### My team
+<img src="https://postfiles.pstatic.net/MjAyMTAxMTlfMjE1/MDAxNjExMDMyMzg5NTAw.xSNDn09xgTHCEkRKAZycHWnuBp5sJDp3JDyOYLcz_e4g.Y9RDN_KAXRroRvUEgyymLDc4J07i5jPDgTsmNQdzIT0g.JPEG.occidere/IMG_0969.JPG?type=w773" width="500" />
+
+> ⓒ 2021. [minSW](https://github.com/minSW) all rights reserved.
