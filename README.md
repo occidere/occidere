@@ -13,11 +13,13 @@ Also enjoying solve algorithms on Leetcode, Baekjoon, etc.
 
 <br>
 
-### Don't forget my posts and presentations too!
+### Don't forget my posts, presentations and contributions too!
 - [Build monitioring system using Elastic Stack + Lambda](https://d2.naver.com/helloworld/9878588)
     - Written on D2 (Naver tech blog)
 - [Configure Kubernetes pods autoscaling by detecting Kafka comsumer lag](https://blog.naver.com/occidere/221758990374)
     - Presented in NAVER Engineering Day 2019
+- [2021 Elastic Bronze Contributor](https://www.credential.net/557b8611-e161-4a5b-92bb-6b7ea5a0af7d#gs.tgcl3w)
+
 
 
 <br>
