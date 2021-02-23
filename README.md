@@ -1,7 +1,5 @@
 ## Who am I?
 
-![Github Status](https://github-readme-stats.vercel.app/api?username=occidere&count_private=true&show_icons=true&theme=react)
-
 Build data pipeline of products from feeding to processing for expose to search engine in NAVER shopping platform.
 - Experienced in build data pipeline of feeding massive data, processing and delivering.
 - Skilled in building and managing Elastic Stack for massive indexing, real time searching and visualization.
@@ -22,7 +20,6 @@ Build data pipeline of products from feeding to processing for expose to search 
 - [Configure Kubernetes pods autoscaling by detecting Kafka comsumer lag](https://blog.naver.com/occidere/221758990374)
     - Presented in NAVER Engineering Day 2019
 - [2021 Elastic Bronze Contributor](https://www.credential.net/557b8611-e161-4a5b-92bb-6b7ea5a0af7d#gs.tgcl3w)
-
 
 
 <br>
