@@ -2,14 +2,17 @@
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=occidere&count_private=true&show_icons=true&theme=react)
 
-Build the products flowing pipelines from feeding to searching at **Shopping Data Integration Dev** of **[NAVER Corp.](https://www.navercorp.com/)** 
-- Mainly use Spring Framework, but also properly use others like Scala, Python, Bash and so on.
-- Flow data through Kafka.
-- Use Hadoop, Hive and Spark to aggregate product information.
-- Index products in Oracle, Postgresql, MySQL and Elasticsearch.
-- Deploy & run applications on Kubernetes.
+Build data pipeline of products from feeding to processing for expose to search engine in NAVER shopping platform.
+- Experienced in build data pipeline of feeding massive data, processing and delivering.
+- Skilled in building and managing Elastic Stack for massive indexing, real time searching and visualization.
+- Familiar with Hadoop Ecosystem based ETL processing.
+- Adepted in running and deploying applications on container system.
 
-Also enjoying solve algorithms on Leetcode, Baekjoon, etc.
+<br>
+
+### Resume
+- English: [Sungjun_Lee_resume_2021_feb.pdf](https://github.com/occidere/occidere/raw/master/Sungjun_Lee_resume_2021_feb.pdf)
+- Korean: https://www.notion.so/cd171e627dd641e9b6e4b49c491ebf3b
 
 <br>
 
