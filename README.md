@@ -9,7 +9,7 @@ Build data pipeline of products from feeding to processing for expose to search 
 <br>
 
 ### Resume
-- English: [Sungjun_Lee_resume.pdf](https://github.com/occidere/occidere/raw/master/Sungjun_resume_2021_02_28.pdf)
+- English: [Sungjun_Lee_resume.pdf](https://github.com/occidere/occidere/blob/master/Sungjun_resume_mar_2021.pdf)
 - Korean: https://www.notion.so/cd171e627dd641e9b6e4b49c491ebf3b
 
 <br>
