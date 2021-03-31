@@ -2,14 +2,14 @@
 
 Build data pipeline of products from feeding to processing for expose to search engine in NAVER shopping platform.
 - Experienced in build data pipeline of feeding massive data, processing and delivering.
-- Skilled in building and managing Elastic Stack for massive indexing, real time searching and visualization.
+- Skilled in building and operating Elastic Stack for massive indexing, real time searching and visualization.
 - Familiar with Hadoop Ecosystem based ETL processing.
 - Adepted in running and deploying applications on container system.
 
 <br>
 
 ### Resume
-- English: [Sungjun_Lee_resume.pdf](https://github.com/occidere/occidere/blob/master/Sungjun_resume_march_2021.pdf)
+- English: [Sungjun_Lee_resume.pdf](https://github.com/occidere/occidere/blob/master/Sungjun_resume_april_2021.pdf)
 - Korean: [이력서.pdf](https://github.com/occidere/occidere/blob/master/%EC%9D%B4%EC%84%B1%EC%A4%80_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
 
 <br>
