@@ -42,7 +42,16 @@ Build data pipeline of products from feeding to processing for expose to search 
 
 <br>
 
-### My team
+### Reminiscence
+<details>
+    <summary>open</summary>
+
+#### My team at Shopping DI in NAVER Corp.
+
 <img src="https://postfiles.pstatic.net/MjAyMTAxMTlfMjE1/MDAxNjExMDMyMzg5NTAw.xSNDn09xgTHCEkRKAZycHWnuBp5sJDp3JDyOYLcz_e4g.Y9RDN_KAXRroRvUEgyymLDc4J07i5jPDgTsmNQdzIT0g.JPEG.occidere/IMG_0969.JPG?type=w773" width="500" />
 
 > ⓒ 2021. [minSW](https://github.com/minSW) all rights reserved.
+    
+</details>
+
+
