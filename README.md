@@ -41,13 +41,13 @@ Build data pipeline of products from feeding to processing for expose to search 
 ### Leetcode solving status
 
 <p float="left">
-  <a href="https://leetcode.com/occidere/"><img src="https://raw.githubusercontent.com/occidere/leetcode/master/.statistics/language_statistics.png" width="40%"/>
-  <a href="https://leetcode.com/occidere/"><img src="https://raw.githubusercontent.com/occidere/leetcode/master/.statistics/ranking_graph.png" width="55%"/>
+  <img src="https://raw.githubusercontent.com/occidere/leetcode/master/.statistics/language_statistics.png" width="40%"/>
+  <img src="https://raw.githubusercontent.com/occidere/leetcode/master/.statistics/ranking_graph.png" width="55%"/>
 </p>
 
 
-
 <br>
+
 
 ### Reminiscence
 <details>
