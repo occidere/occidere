@@ -2,20 +2,20 @@
 
 ## Backend engineer at Coupang
 1. Core backend data serving layer
- - Delegates product/order/member/benefit/eats data from DB layer to Front API layer including cache refresh pipelines.
- - Handle most of Coupang user traffics as a data intermediator
+   - Delegates product/order/member/benefit/eats data from DB layer to Front API layer including cache refresh pipelines.
+   - Handle most of Coupang user traffics as a data intermediator
 2. Elasticsearch expert
- - Develop ES based search system layer.
- - Maintain all ES clusters including indexing pipelines, recovery jobs and system optimizations.
+   - Develop ES based search system layer.
+   - Maintain all ES clusters including indexing pipelines, recovery jobs and system optimizations.
 3. ETL processing
- - Develop and maintain data processing system with Spark, Hive and Kafka on Airflow.
+   - Develop and maintain data processing system with Spark, Hive and Kafka on Airflow.
 
 ## Data engineer at Naver
 1. Built data pipeline of products from feeding to processing for expose to search engine in NAVER shopping platform.
- - Experienced in build data pipeline of feeding massive data, processing and delivering.
- - Skilled in building and operating Elastic Stack for massive indexing, real time searching and visualization.
- - Familiar with Hadoop Ecosystem based ETL processing.
- - Adepted in running and deploying applications on container system.
+   - Experienced in build data pipeline of feeding massive data, processing and delivering.
+   - Skilled in building and operating Elastic Stack for massive indexing, real time searching and visualization.
+   - Familiar with Hadoop Ecosystem based ETL processing.
+   - Adepted in running and deploying applications on container system.
 <br>
 
 ## Resume
