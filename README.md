@@ -1,20 +1,30 @@
-## Who am I?
+# Who am I?
 
-Build data pipeline of products from feeding to processing for expose to search engine in NAVER shopping platform.
-- Experienced in build data pipeline of feeding massive data, processing and delivering.
-- Skilled in building and operating Elastic Stack for massive indexing, real time searching and visualization.
-- Familiar with Hadoop Ecosystem based ETL processing.
-- Adepted in running and deploying applications on container system.
+## Backend engineer at Coupang
+1. Core backend data serving layer
+ - Delegates product/order/member/benefit/eats data from DB layer to Front API layer including cache refresh pipelines.
+ - Handle most of Coupang user traffics as a data intermediator
+2. Elasticsearch expert
+ - Develop ES based search system layer.
+ - Maintain all ES clusters including indexing pipelines, recovery jobs and system optimizations.
+3. ETL processing
+ - Develop and maintain data processing system with Spark, Hive and Kafka on Airflow.
 
+## Data engineer at Naver
+1. Built data pipeline of products from feeding to processing for expose to search engine in NAVER shopping platform.
+ - Experienced in build data pipeline of feeding massive data, processing and delivering.
+ - Skilled in building and operating Elastic Stack for massive indexing, real time searching and visualization.
+ - Familiar with Hadoop Ecosystem based ETL processing.
+ - Adepted in running and deploying applications on container system.
 <br>
 
-### Resume
+## Resume
 - English: [Sungjun_Lee_resume.pdf](https://github.com/occidere/occidere/blob/master/Sungjun_resume_may_2021.pdf)
 - Korean: [이력서.pdf](https://github.com/occidere/occidere/blob/master/%EC%9D%B4%EC%84%B1%EC%A4%80_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
 
 <br>
 
-### Don't forget my posts, presentations and contributions too!
+## Don't forget my posts, presentations and contributions too!
 - [Build monitioring system using Elastic Stack + Lambda](https://d2.naver.com/helloworld/9878588)
     - Written on D2 (Naver tech blog)
 - [Configure Kubernetes pods autoscaling by detecting Kafka comsumer lag](https://blog.naver.com/occidere/221758990374)
@@ -25,7 +35,7 @@ Build data pipeline of products from feeding to processing for expose to search 
 
 <br>
 
-### Check my additional info here!
+## Check my additional info here!
 <div align="left">
     <a target="_blank" href="https://www.acmicpc.net/user/occidere"><img src="https://postfiles.pstatic.net/MjAxOTEyMjRfMjA5/MDAxNTc3MTkyNTc5Mjkx.p_Tb59oUPn3vNNRJKnSZWPTkdxywV0MRotMO8ARxFm8g.4Asj8GBetDaak_IRqUuIZirj7I52VXmA6ppxj25RI80g.PNG.occidere/boj.png?type=w773" width="34"></a>
     <a target="_blank" href="https://github.com/occidere"><img src="https://postfiles.pstatic.net/MjAxOTEyMjRfMjA2/MDAxNTc3MTkyNjQxMTE2.gKbaF34cMk4H7gGeNL6OO6ARFXgrxra1iSvn3DRFzAMg.TWVLm42SKE4yDn_eMTaU9BGEnU2YSbEV0pf8bHM0UjEg.PNG.occidere/GitHub-Mark-120px-plus.png?type=w773" width="34"></a>
@@ -40,7 +50,7 @@ Build data pipeline of products from feeding to processing for expose to search 
 
 <br>
 
-### Leetcode solving status
+## Leetcode solving status
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/occidere/leetcode/master/analysis/output/language_statistics.png" width="40%"/>
@@ -51,15 +61,15 @@ Build data pipeline of products from feeding to processing for expose to search 
 <br>
 
 
-### Reminiscence
+## Reminiscence
 <details>
     <summary>open</summary>
 
-#### My team at Shopping DI in NAVER Corp.
+### My team at Shopping DI in NAVER Corp.
 
 <img src="https://postfiles.pstatic.net/MjAyMTAxMTlfMjE1/MDAxNjExMDMyMzg5NTAw.xSNDn09xgTHCEkRKAZycHWnuBp5sJDp3JDyOYLcz_e4g.Y9RDN_KAXRroRvUEgyymLDc4J07i5jPDgTsmNQdzIT0g.JPEG.occidere/IMG_0969.JPG?type=w773" width="500" />
 
-> ⓒ 2021. [minSW](https://github.com/minSW) all rights reserved.
+> ⓒ 2025. [minSW](https://github.com/minSW) all rights reserved.
     
 </details>
 
